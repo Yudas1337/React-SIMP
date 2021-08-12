@@ -1,0 +1,28 @@
+{
+  "files": {
+    "static/js/0.39c09cdf.chunk.js": "/React-SIMP/static/js/0.39c09cdf.chunk.js",
+    "static/js/1.f4794698.chunk.js": "/React-SIMP/static/js/1.f4794698.chunk.js",
+    "main.css": "/React-SIMP/static/css/main.1359096b.chunk.css",
+    "main.js": "/React-SIMP/static/js/main.b77f171e.chunk.js",
+    "runtime-main.js": "/React-SIMP/static/js/runtime-main.8f2d966d.js",
+    "static/js/4.21cc2915.chunk.js": "/React-SIMP/static/js/4.21cc2915.chunk.js",
+    "static/js/5.2619fc00.chunk.js": "/React-SIMP/static/js/5.2619fc00.chunk.js",
+    "static/js/6.2b077338.chunk.js": "/React-SIMP/static/js/6.2b077338.chunk.js",
+    "static/js/7.c7d28679.chunk.js": "/React-SIMP/static/js/7.c7d28679.chunk.js",
+    "static/js/8.35515e55.chunk.js": "/React-SIMP/static/js/8.35515e55.chunk.js",
+    "static/css/9.3bcd1a3a.chunk.css": "/React-SIMP/static/css/9.3bcd1a3a.chunk.css",
+    "static/js/9.f214c303.chunk.js": "/React-SIMP/static/js/9.f214c303.chunk.js",
+    "static/js/10.62475f76.chunk.js": "/React-SIMP/static/js/10.62475f76.chunk.js",
+    "static/js/11.fc990bda.chunk.js": "/React-SIMP/static/js/11.fc990bda.chunk.js",
+    "static/js/12.72d13c63.chunk.js": "/React-SIMP/static/js/12.72d13c63.chunk.js",
+    "index.html": "/React-SIMP/index.html",
+    "static/js/4.21cc2915.chunk.js.LICENSE.txt": "/React-SIMP/static/js/4.21cc2915.chunk.js.LICENSE.txt",
+    "static/js/5.2619fc00.chunk.js.LICENSE.txt": "/React-SIMP/static/js/5.2619fc00.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f2d966d.js",
+    "static/js/4.21cc2915.chunk.js",
+    "static/css/main.1359096b.chunk.css",
+    "static/js/main.b77f171e.chunk.js"
+  ]
+}
