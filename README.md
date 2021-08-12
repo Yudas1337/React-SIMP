@@ -13,6 +13,7 @@ The purpose is to surprise your crush / girlfriend and make them happy xD
 <li>Jquery</li>
 <li>React Spectrum</li>
 <li>React Baffle</li>
+<li>React SnowStorm</li>
 </ul>
 <li>Database : Mongoose / Mongo Atlas</li>
 </ul>
