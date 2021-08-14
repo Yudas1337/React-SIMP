@@ -17,3 +17,8 @@ The purpose is to surprise your crush / girlfriend and make them happy xD
 </ul>
 <li>Database : Mongoose / Mongo Atlas</li>
 </ul>
+
+### Special Effect
+We can customize the special message anything we wanted.
+
+![1](special.gif)
