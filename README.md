@@ -1,6 +1,6 @@
 ### React SIMP
 React SIMP is a Web Apps bundled with amazing animation using pure css, some romantic quotes, and special message with React Baffle Animation. 
-The purpose is to surprise your crush / girlfriend and make them happy xD
+The purpose is to surprise your crush / girlfriend and make them happy xD . We can customize the special message, quotes list, special color, etc.
 
 - 📝[Visit React SIMP](https://yudas1337.github.io/React-SIMP)
 
